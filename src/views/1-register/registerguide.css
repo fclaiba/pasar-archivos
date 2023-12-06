@@ -1,0 +1,33 @@
+:root {
+    --bg-color: rgba(238, 238, 238, 1);
+    --google: rgba(240, 0, 0, 1);
+    --h-1-font-family: "GothamRounded-Bold", Helvetica;
+    --h-1-font-size: 26px;
+    --h-1-font-style: normal;
+    --h-1-font-weight: 700;
+    --h-1-letter-spacing: 0px;
+    --h-1-line-height: 28px;
+    --h-2-font-family: "GothamRounded-Book", Helvetica;
+    --h-2-font-size: 18px;
+    --h-2-font-style: normal;
+    --h-2-font-weight: 400;
+    --h-2-letter-spacing: 0px;
+    --h-2-line-height: normal;
+    --p-font-family: "GothamRounded-Book", Helvetica;
+    --p-font-size: 14px;
+    --p-font-style: normal;
+    --p-font-weight: 400;
+    --p-letter-spacing: 0px;
+    --p-line-height: normal;
+    --primary: rgba(0, 117, 143, 1);
+    --secondary: rgba(251, 175, 51, 1);
+    --span-font-family: "GothamRounded-Book", Helvetica;
+    --span-font-size: 12px;
+    --span-font-style: normal;
+    --span-font-weight: 400;
+    --span-letter-spacing: 0px;
+    --span-line-height: normal;
+    --text-color: rgba(66, 66, 66, 1);
+    --white: rgba(255, 255, 255, 1);
+  }
+  

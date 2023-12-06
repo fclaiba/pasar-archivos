@@ -1,0 +1,125 @@
+.validacin {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.validacin .div {
+    background-color: #ffffff;
+    height: 852px;
+    position: relative;
+    width: 393px;
+}
+
+.validacin .footer {
+    height: 40px;
+    left: 33px;
+    position: absolute;
+    top: 792px;
+    width: 332px;
+}
+
+.validacin .group {
+    height: 1px;
+    left: 6px;
+    position: absolute;
+    top: 774px;
+    width: 379px;
+}
+
+.validacin .text-wrapper-2 {
+    color: var(--primary);
+    font-family: var(--h-1-font-family);
+    font-size: var(--h-1-font-size);
+    font-style: var(--h-1-font-style);
+    font-weight: var(--h-1-font-weight);
+    left: 39px;
+    letter-spacing: var(--h-1-letter-spacing);
+    line-height: var(--h-1-line-height);
+    position: absolute;
+    text-align: center;
+    top: 167px;
+    white-space: nowrap;
+}
+
+.validacin .p {
+    color: var(--primary);
+    font-family: var(--p-font-family);
+    font-size: var(--p-font-size);
+    font-style: var(--p-font-style);
+    font-weight: var(--p-font-weight);
+    left: 24px;
+    letter-spacing: var(--p-letter-spacing);
+    line-height: var(--p-line-height);
+    position: absolute;
+    text-align: center;
+    top: 213px;
+    width: 346px;
+}
+
+.validacin .text-wrapper-3 {
+    color: var(--text-color);
+    font-family: var(--p-font-family);
+    font-size: var(--p-font-size);
+    font-style: var(--p-font-style);
+    font-weight: var(--p-font-weight);
+    left: 24px;
+    letter-spacing: var(--p-letter-spacing);
+    line-height: var(--p-line-height);
+    position: absolute;
+    text-align: center;
+    top: 673px;
+    width: 346px;
+}
+
+.validacin .text-wrapper-4 {
+    color: var(--text-color);
+    font-family: var(--p-font-family);
+    font-size: var(--p-font-size);
+    font-style: var(--p-font-style);
+    font-weight: var(--p-font-weight);
+    left: 42px;
+    letter-spacing: var(--p-letter-spacing);
+    line-height: var(--p-line-height);
+    position: absolute;
+    text-align: center;
+    top: 330px;
+    width: 310px;
+}
+
+.validacin .img {
+    height: 25px;
+    left: 140px;
+    position: absolute;
+    top: 720px;
+    width: 112px;
+}
+
+.validacin .button-primary-instance {
+    left: 41px !important;
+    position: absolute !important;
+    top: 378px !important;
+}
+
+.validacin .design-component-instance-node {
+    left: 22px !important;
+    width: unset !important;
+}
+
+.validacin .header-instance {
+    background-color: transparent !important;
+    background-image: url(./rect-ngulo-54-2.svg) !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+}
+
+.validacin .icon-instance-node {
+    height: 70px !important;
+    left: 140px !important;
+    position: absolute !important;
+    top: 56px !important;
+    width: 112px !important;
+}
